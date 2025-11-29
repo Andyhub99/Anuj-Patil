@@ -6,7 +6,7 @@ I'm an **AI & Django Developer** from **India**, passionate about **web developm
 
 ## ✨ About Me
 
-- 🛠️ Creating **projects and bugs** since **2021**  
+- 🛠️ Creating **projects and bugs** since **2023**  
 - 📚 Currently learning **Advanced AI, Django & Full-Stack Development**  
 - 🎯 Goals: **Become a top AI & Web Developer and build impactful projects**
 
