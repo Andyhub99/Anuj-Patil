@@ -42,9 +42,11 @@ I'm an **AI & Django Developer** from **India**, passionate about **web developm
 
 ---
 
-## 🌟 Achievements & Trophies
+## 💼 Experience
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Andyhub99&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
+- Internship at **Redivivus Technologies Pvt. Ltd.** — Built a Django-based interface
+- Treasurer at **AI & DS Students Association (AIDSSA)** — Leadership & event coordination
+- Freelance projects: Web apps, AI chatbots, data dashboards
 
 ---
 
