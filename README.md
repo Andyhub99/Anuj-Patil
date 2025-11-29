@@ -1,5 +1,3 @@
-# Anuj-Patil
-Myself
 # 👋 Hey there, I'm Anuj Prashant Patil
 
 I'm an **AI & Django Developer** from **India**, passionate about **web development, AI, and building real-world projects**.
@@ -10,8 +8,7 @@ I'm an **AI & Django Developer** from **India**, passionate about **web developm
 
 - 🛠️ Creating **projects and bugs** since **2021**  
 - 📚 Currently learning **Advanced AI, Django & Full-Stack Development**  
-- 🎯 Goals: **Become a top AI & Web Developer and build impactful projects**  
-- 🎲 Fun fact: **I break things to learn how to fix them 😄**
+- 🎯 Goals: **Become a top AI & Web Developer and build impactful projects**
 
 ---
 
@@ -39,10 +36,35 @@ I'm an **AI & Django Developer** from **India**, passionate about **web developm
 
 ## 🧩 My Skills
 
-**Web Development**  
+**Web Development & Tools:** Django, Streamlit, HTML, CSS, JS, Power BI, Git, VS Code, MySQL  
+**AI & Data Science:** Machine Learning, Deep Learning, Computer Vision (TensorFlow, Scikit-learn, OpenCV)  
+**Soft Skills:** Leadership | Teamwork | Communication | Problem Solving | Adaptability  
 
-```text
-HTML       [██████████] 95%
-CSS        [█████████ ] 90%
-Django     [██████████] 95%
-JS         [████████  ] 85%
+---
+
+## 🌟 Achievements & Trophies
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Andyhub99&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
+
+---
+
+## 📂 Recently Working Projects
+
+1. **The Digital Plate**  
+2. **Django Personal Blog**  
+3. **Real Estate Analysis Chatbot**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/anuj-patil-0ba9352b9)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andyhub99)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anshhhpatil_)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917219321923)  
+
+---
+
+## 📊 GitHub Stats
+
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andyhub99&show_icons=true&theme=tokyonight)
