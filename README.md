@@ -45,7 +45,7 @@ I'm an **AI & Django Developer** from **India**, passionate about **web developm
 ## 💼 Experience
 
 - Internship at **Redivivus Technologies Pvt. Ltd.** — Built a Django-based interface
-- Treasurer at **AI & DS Students Association (AIDSSA)** — Leadership & event coordination
+- Treasurer at **AI & DS Students Association (AISA)** — Leadership & event coordination
 - Freelance projects: Web apps, AI chatbots, data dashboards
 
 ---
