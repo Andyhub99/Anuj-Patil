@@ -55,6 +55,7 @@ I'm an **AI & Django Developer** from **India**, passionate about **web developm
 - **The Digital Plate**  
 - **Django Personal Blog**  
 - **Real Estate Analysis Chatbot**
+- **Full Stack Cryptocurrency tracker**
 
 ---
 
