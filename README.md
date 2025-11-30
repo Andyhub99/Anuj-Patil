@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Anuj Prashant Patil
+# 👋 Hey, I'm Anuj Prashant Patil
 
 I'm an **AI & Django Developer** from **India**, passionate about **web development, AI, and building real-world projects**.  
 
